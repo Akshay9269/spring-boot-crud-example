@@ -10,7 +10,20 @@ public class ProductControllerTest {
 
     @Test
     void testAddProduct_WhenProvidedWithValidDetails_ReturnsExpectedResult(){
+    //Arrange
 
+     //Act
+
+     //Assert
+    }
+
+    @Test
+    void testViewProduct_WhenProvidedWithValidDetails_ReturnsExpectedResult(){
+        //Arrange
+
+        //Act
+
+        //Assert
     }
 
 }
